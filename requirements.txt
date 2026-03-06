@@ -1,0 +1,4 @@
+pymorphy3[fast]
+matplotlib
+spacy
+pandas
