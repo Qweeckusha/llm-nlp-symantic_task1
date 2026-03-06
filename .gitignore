@@ -1,4 +1,6 @@
 .venv
 .idea
-data
-task.md
+
+# 1 Задание
+task1/data
+task1/task.md
