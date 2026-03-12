@@ -2,5 +2,6 @@
 .idea
 
 # 1 Задание
-data
+data/lenta.db
+data/texts.csv
 task.md
